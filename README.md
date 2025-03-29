@@ -4,15 +4,21 @@
 
 I'm a 7th-grade student at a Gymnasium with a keen interest in **lighting💡**, **sound🎧**, **video technology📷** and **servers🖥️**.
 
+---
+
 ## 💻 Skills
 
 - 🐧 **Ubuntu Server**
 - 🐳 **Docker**
 - 🖥️ **Proxmox**
 
+---
+
 ## ⚙️ Projects
 
 I primarily work on **personal projects** and **school projects**, often involving lighting technology and server stuff.
+
+---
 
 ## 📈 GitHub Stats
 
